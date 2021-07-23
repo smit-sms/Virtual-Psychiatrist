@@ -56,4 +56,4 @@ progress through the analysis provided inside the application.
 </details>
 
 ## License
-[MIT](https://github.com/smit-sms/Virtual-Psychiatrist/blob/main/LICENSE)
+[MIT](https://github.com/smit-sms/Virtual-Psychiatrist/blob/master/LICENSE)
