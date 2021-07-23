@@ -1,0 +1,13 @@
+Flask == 1.1.2
+Flask-RESTful == 0.3.8
+Keras == 2.4.3
+SoundFile == 0.10.3.post1
+librosa == 0.8.0
+nltk == 3.5
+noisereduce == 1.1.0
+numpy == 1.18.5
+opencv-python == 4.4.0.42
+requests == 2.24.0
+resources == 0.0.1
+Flask-SQLAlchemy == 2.4.4
+tensorflow == 2.3.0

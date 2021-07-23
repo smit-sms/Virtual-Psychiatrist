@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "385949092061",
+    "firebase_url": "https://therapist-f3185.firebaseio.com",
+    "project_id": "therapist-f3185",
+    "storage_bucket": "therapist-f3185.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:385949092061:android:143b90ecfb3f8804c5b334",
+        "android_client_info": {
+          "package name": "com.therapist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "385949092061-cpkifigar6v2svaju55345bh09fro3qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1M4duBWpJiCxgYjyl5DDa5YFxMHnDfdU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "385949092061-cpkifigar6v2svaju55345bh09fro3qa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

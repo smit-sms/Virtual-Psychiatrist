@@ -1,0 +1,60 @@
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 20:17:43 - Session started
+
+Home psychiatrist: Okey , why are you here?
+Patience: asdf
+
+Home psychiatrist: Tell me if you eat regularly and on time? If you dont then why so?
+Patience: asdf
+
+Home psychiatrist: Why do you think you are not growing, or how can you improve your growth if you are?
+Patience: asd
+
+Home psychiatrist: What's that supposed to mean?
+Patience: fasd
+
+Home psychiatrist: Tell me more
+Patience: fsad
+
+Home psychiatrist: What is your idea of relaxation?
+Patience: fa
+
+Home psychiatrist: Can you put it on the other words?
+Patience: dfa
+
+Home psychiatrist: Little interest or pleasure in doing things
+Patience: dfa
+
+Home psychiatrist: What do you hope to accomplish in therapy?
+Patience: sdf
+
+Home psychiatrist: Do you think very much about your future?
+Patience: adsf
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 21:17:39 - Session started
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 21:17:47 - Session started
+
+Home psychiatrist: Okey , why are you here?
+Patience: i had bad day
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 21:28:35 - Session started
+
+Home psychiatrist: Well , what would you like to talk about?
+Patience: bad
+
+Home psychiatrist: So lets disscuss, What is the problem from your viewpoint?
+Patience: negative
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 21:37:20 - Session started
+
+Home psychiatrist: Well , what would you like to talk about?
+Patience: i feel good
+------------------------------------------------------------------------------------------------------------------------
+
+Fri, 19 Feb 2021 21:39:16 - Session started

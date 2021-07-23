@@ -1,0 +1,1 @@
+Dont delete this file inorder to commit the static folder onto GIT.
