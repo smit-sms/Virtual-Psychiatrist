@@ -10,4 +10,4 @@ opencv-python == 4.4.0.42
 requests == 2.24.0
 resources == 0.0.1
 Flask-SQLAlchemy == 2.4.4
-tensorflow == 2.5.2
+tensorflow == 2.5.3
