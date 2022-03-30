@@ -3,7 +3,7 @@ Flask-RESTful == 0.3.8
 Keras == 2.4.3
 SoundFile == 0.10.3.post1
 librosa == 0.8.0
-nltk == 3.6.5
+nltk == 3.6.6
 noisereduce == 1.1.0
 numpy == 1.18.5
 opencv-python == 4.4.0.42
