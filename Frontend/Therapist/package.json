@@ -20,7 +20,7 @@
     "react-native-gesture-handler": "^1.8.0",
     "react-native-google-speech-to-text": "^1.0.4",
     "react-native-image-crop-picker": "^0.36.0",
-    "react-native-reanimated": "^1.13.2",
+    "react-native-reanimated": "^2.10.0",
     "react-native-safe-area-context": "^3.1.9",
     "react-native-screens": "^2.15.0",
     "react-native-tts": "^3.3.0",
